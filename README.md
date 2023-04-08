@@ -22,7 +22,7 @@ One way to overcome this is to train separate models for each of the 47 domains 
 Finally, the results might be quite different if we didn’t delete all the questions that were over 13 words. This would lead to a new bigger vocabulary and the training step would become more time-consuming and source-demanding
 
 **I have to mention that for implementing this project I produced, changed and obtained code from several sources that I link on the provided PDF file here in this repo.
-Also I should mention that the file **metalwoz-v1** provided in this repo was downloaded from "https://www.microsoft.com/en-us/research/project/metalwoz/".**
+Also I should mention that the file **metalwoz-v1** provided in this repo was downloaded from https://www.microsoft.com/en-us/research/project/metalwoz/.**
 
 This repository was initially created to store my personal python codes but also be available to others trying to build or understand something similar.
 The codes contained in this repo are made specifically for a Machine Learning and Natural Language Processing course of my MSc program.
