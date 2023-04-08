@@ -1,9 +1,9 @@
 # Chatbot
-### **Building a simple chat-bot using Microsofts MetaLWOz dataset.**
+## **Building a simple chat-bot using Microsofts MetaLWOz dataset.**
 
 #### This repo contains all the required resources in order to create a simple chat-bot with the use of MetaLWOz dataset. 
 
-## Briefly, my implementation took into account:
+#### Briefly, my implementation took into account:
 
   • **(1) Data pre-processing.** Prepare the training data (pairs of sentences from the provided data set).
   
