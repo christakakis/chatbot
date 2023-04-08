@@ -25,6 +25,7 @@ Finally, the results might be quite different if we didn’t delete all the ques
 ![](https://github.com/christakakis/chatbot/blob/main/test_conv.gif)
 
 **I have to mention that for implementing this project I produced, changed and obtained code from several sources that I link on the provided PDF file here in this repo.
+
 Also I should mention that the file **metalwoz-v1** provided in this repo was downloaded from https://www.microsoft.com/en-us/research/project/metalwoz/.**
 
 This repository was initially created to store my personal python codes but also be available to others trying to build or understand something similar.
