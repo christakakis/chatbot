@@ -1,0 +1,183 @@
+==================================================================
+##########################Conversation_1##########################
+==================================================================
+User:	Hey
+Bot:	hello how can i help you
+
+User:	Help with my acccount
+Bot:	what is it
+
+User:	Transfer money
+Bot:	okay i have set your alarm for you
+
+User:	Ok thanks.
+Bot:	you are welcome
+
+User:	Can you tell the weather?
+Bot:	yes
+
+User:	For tommorow
+Bot:	okay i have set your alarm for you
+
+User:	How will be the weather tommorow
+Bot:	i am sorry but there are no seats available for tommorow
+
+User:	Can you give me some info
+Bot:	yes 
+
+User:	About appointment
+Bot:	what is the number
+
+User:	911
+Bot:	okay i have set your alarm for you
+
+User:	What time
+Bot:	7
+
+User:	I want 9
+Bot:	okay i have set your alarm for you
+
+User:	nice thanks
+Bot:	you are welcome
+
+User:	Can you tell me where a country is?
+Bot:	what is it
+
+User:	Greece
+Bot:	<OUT>
+
+User:	You know anything about cars?
+Bot:	what is your question
+
+User:	About cars
+Bot:	i have found a few <OUT> on your location
+
+User:	What else you know?
+Bot:	Anything
+
+User:	Where is Greece?
+Bot:	<OUT>
+
+User:	I dont want that
+Bot:	i am sorry but there are no seats available for the
+
+User:	ok
+Bot:	anything else
+
+User:	No
+Bot:	okay
+
+User:	Bye
+Bot:	bye
+
+User:	q
+Bot:	okay i have set an alarm for you
+
+
+==================================================================
+##########################Conversation_2##########################
+==================================================================
+User: Hey	
+Bot:	hello
+
+User: Are you a bot?	
+Bot:	yes
+
+User:	Can you help me
+Bot:	what do you need help with
+
+User:	Help with my cat
+Bot:	what do you need help with
+
+User:	Weather info?
+Bot:	what is the number
+
+User:	Can you give me forecast information?
+Bot:	what do you need help with
+
+User:	Use location
+Bot:	what is the number
+
+User:	No
+Bot:	ok
+
+User:	Set an alarm
+Bot:	what time
+
+User:	No temperature
+Bot:	At 8 AM 
+
+User:	I need help with something
+Bot:	what time
+
+User:	8
+Bot:	what is the number
+
+User:	No
+Bot:	ok
+
+User:	I need help with somtehing
+Bot:	what do you need help with
+
+User:	I need help with buying
+Bot:	what do you need help with
+
+User:	I need to buy
+Bot:	what is the number
+
+User: I need to buy a computer
+Bot:	what is the new email address
+
+User: Shopping help?
+Bot: 	what is the number
+
+User: No I need to buy something
+Bot:	okay i will be here if you need me to help
+
+User: Ask me what
+Bot:	what is the number
+
+User: Nice
+Bot: anything else
+
+User:	What can you do?
+Bot:	<OUT> <OUT>
+
+User:	Balance of my account
+Bot:	what is the number
+
+User:	001
+Bot:	what is the number
+
+User: Forget it 
+Bot:	okay i have made the change
+
+User:	Can you order a book
+Bot:	what do you need help with
+
+User:	Is this book available?
+Bot:	yes	
+
+User:	Price?
+Bot:	i am not legally obligated to help you
+
+User:	Whats the price?
+Bot:	what is the address
+
+User:	Ok thats enough
+Bot:	anything else
+
+User:	No
+Bot:	ok
+
+User:	Thanks for the info
+Bot:	Is there anything else i can help you with
+
+User:	No
+Bot:	ok
+
+User: Bye bye
+Bot:	bye
+
+User: q
+Bot: what is the number
