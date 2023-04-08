@@ -13,7 +13,9 @@
   
   • **(4) Training.** Training of the model on sentence pairs ([input, output]).
   
-  • **(5) Testing - Inference.** A txt is provided with some test conversations with the chatbot.
+  • **(5) Testing - Inference.** A txt as well as a gif are provided with some test conversations with the chatbot.
+
+![](https://github.com/christakakis/chatbot/blob/main/test_conv.gif)
 
 In general, the chat-bot behaved as expected without having exciting results. This was expected because we had limitations in RAM and the total training time of the model. Still from the results it was seen that the model didn’t overcome the problem of overfitting, especially for discussions that existed arbitrarily in the training data. Some examples are the chatbot's constant references to setting an alarm, in questions like what’s the number and what do you need help with.
 
